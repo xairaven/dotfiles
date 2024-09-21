@@ -7,7 +7,7 @@
     <option name="ADDED_LINES_COLOR" value="92d923" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
     <option name="CARET_COLOR" value="ffb900" />
-    <option name="CARET_ROW_COLOR" value="272625" />
+    <option name="CARET_ROW_COLOR" value="361d45" />
     <option name="CONSOLE_BACKGROUND_KEY" value="121110" />
     <option name="DELETED_LINES_COLOR" value="ed005c" />
     <option name="DIAGRAM_ANNOTATION_EDGE" value="f2ba4b" />
@@ -44,7 +44,7 @@
     <option name="FILESTATUS_SWITCHED" value="ab9df2" />
     <option name="FILESTATUS_UNKNOWN" value="ffd866" />
     <option name="GRID_STRIPE_COLOR" value="373635" />
-    <option name="GUTTER_BACKGROUND" value="272625" />
+    <option name="GUTTER_BACKGROUND" value="361d45" />
     <option name="HINT_BORDER" value="525150" />
     <option name="HTML_TAG_TREE_LEVEL0" value="ed6b88" />
     <option name="HTML_TAG_TREE_LEVEL1" value="f9d778" />
@@ -54,7 +54,7 @@
     <option name="HTML_TAG_TREE_LEVEL5" value="b6b3eb" />
     <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="1e320a" />
     <option name="IMAGES_WHITE_CELL_COLOR" value="1a1a22" />
-    <option name="INDENT_GUIDE" value="272625" />
+    <option name="INDENT_GUIDE" value="361d45" />
     <option name="INFORMATION_HINT" value="1b231a" />
     <option name="LINE_NUMBERS_COLOR" value="6f6e6d" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="8f8e8d" />
@@ -65,15 +65,15 @@
     <option name="MODIFIED_TAB_ICON" value="ffb900" />
     <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="MT_SUPPRESSED" value="eeffff" />
-    <option name="NOTIFICATION_BACKGROUND" value="272625" />
+    <option name="NOTIFICATION_BACKGROUND" value="361d45" />
     <option name="NOT_CHANGED" value="939393" />
-    <option name="PRESENTATION_ASSISTANT_HINT_BACKGROUND" value="272625" />
+    <option name="PRESENTATION_ASSISTANT_HINT_BACKGROUND" value="361d45" />
     <option name="PRESENTATION_ASSISTANT_HINT_FOREGROUND" value="8f8e8d" />
-    <option name="PROMOTION_PANE" value="272625" />
+    <option name="PROMOTION_PANE" value="361d45" />
     <option name="QUESTION_HINT" value="1e232e" />
-    <option name="READONLY_BACKGROUND" value="272625" />
-    <option name="READONLY_FRAGMENT_BACKGROUND" value="272625" />
-    <option name="RECENT_LOCATIONS_SELECTION" value="272625" />
+    <option name="READONLY_BACKGROUND" value="361d45" />
+    <option name="READONLY_FRAGMENT_BACKGROUND" value="361d45" />
+    <option name="RECENT_LOCATIONS_SELECTION" value="361d45" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="7d7d7d" />
     <option name="RIGHT_MARGIN_COLOR" value="323130" />
     <option name="SELECTED_INDENT_GUIDE" value="424140" />
@@ -284,7 +284,7 @@
     <option name="BREADCRUMBS_CURRENT">
       <value>
         <option name="FOREGROUND" value="ffb900" />
-        <option name="BACKGROUND" value="272625" />
+        <option name="BACKGROUND" value="361d45" />
       </value>
     </option>
     <option name="BREADCRUMBS_DEFAULT">
