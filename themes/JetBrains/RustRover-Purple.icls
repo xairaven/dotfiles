@@ -20,7 +20,7 @@
     <option name="DIAGRAM_REALIZATION_EDGE" value="92d923" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="262626" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
-    <option name="DOCUMENTATION_COLOR" value="323130" />
+    <option name="DOCUMENTATION_COLOR" value="22222d" />
     <option name="ERROR_HINT" value="401408" />
     <option name="FILESTATUS_ADDED" value="a9dc76" />
     <option name="FILESTATUS_CHANGELIST_CONFLICT" value="f65f87" />
@@ -58,7 +58,7 @@
     <option name="INFORMATION_HINT" value="1b231a" />
     <option name="LINE_NUMBERS_COLOR" value="6f6e6d" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="8f8e8d" />
-    <option name="LOOKUP_COLOR" value="323130" />
+    <option name="LOOKUP_COLOR" value="22222d" />
     <option name="MATCHED_BRACES_INDENT_GUIDE_COLOR" value="525150" />
     <option name="METHOD_SEPARATORS_COLOR" value="424140" />
     <option name="MODIFIED_LINES_COLOR" value="ffd64c" />
@@ -75,11 +75,11 @@
     <option name="READONLY_FRAGMENT_BACKGROUND" value="361d45" />
     <option name="RECENT_LOCATIONS_SELECTION" value="361d45" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="7d7d7d" />
-    <option name="RIGHT_MARGIN_COLOR" value="323130" />
+    <option name="RIGHT_MARGIN_COLOR" value="22222d" />
     <option name="SELECTED_INDENT_GUIDE" value="424140" />
     <option name="SELECTED_TEARLINE_COLOR" value="ffb900" />
-    <option name="SEPARATOR_ABOVE_COLOR" value="323130" />
-    <option name="SEPARATOR_BELOW_COLOR" value="323130" />
+    <option name="SEPARATOR_ABOVE_COLOR" value="22222d" />
+    <option name="SEPARATOR_BELOW_COLOR" value="22222d" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="424140" />
     <option name="TAB_UNDERLINE" value="ffb900" />
     <option name="TAB_UNDERLINE_INACTIVE" value="525150" />
@@ -211,14 +211,14 @@
     <option name="ASCIIDOC_MONO">
       <value>
         <option name="FOREGROUND" value="c8b9aa" />
-        <option name="EFFECT_COLOR" value="323130" />
+        <option name="EFFECT_COLOR" value="22222d" />
       </value>
     </option>
     <option name="ASCIIDOC_MONOBOLD">
       <value>
         <option name="FOREGROUND" value="c8b9aa" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="323130" />
+        <option name="EFFECT_COLOR" value="22222d" />
       </value>
     </option>
     <option name="ATTRIBUTE">
@@ -296,7 +296,7 @@
     <option name="BREADCRUMBS_HOVERED">
       <value>
         <option name="FOREGROUND" value="dfdedd" />
-        <option name="BACKGROUND" value="323130" />
+        <option name="BACKGROUND" value="22222d" />
       </value>
     </option>
     <option name="BREADCRUMBS_INACTIVE">
