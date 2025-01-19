@@ -1,0 +1,5 @@
+[target.'cfg(not(target_arch = "wasm32"))']
+linker = "x86_64-w64-mingw32-gcc"
+
+[target.wasm32-unknown-unknown]
+linker = "rust-lld"
