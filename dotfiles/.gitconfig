@@ -1,0 +1,7 @@
+[user]
+	name = xairaven
+	email = alexkovalevkpi@gmail.com
+[core]
+	editor = vim
+[init]
+	defaultBranch = main

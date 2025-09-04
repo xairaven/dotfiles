@@ -1,0 +1,5 @@
+# My aliases
+alias cls='clear'
+alias ls='ls --color=auto'
+alias la='ls -la'
+alias mkdir='mkdir -p'
