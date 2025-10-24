@@ -3,6 +3,7 @@ sudo dnf install \
     code \
     fastfetch \
     git \
+    gnome-keyring \
     gzip \
     htop \
     putty \
