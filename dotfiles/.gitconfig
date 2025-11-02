@@ -5,3 +5,6 @@
 	editor = vim
 [init]
 	defaultBranch = main
+[alias]
+    l = log --oneline
+    ln = log --oneline -n
