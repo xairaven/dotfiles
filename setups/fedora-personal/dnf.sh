@@ -4,6 +4,7 @@ sudo dnf install \
     fastfetch \
     git \
     gnome-keyring \
+    gsmartcontrol \
     gzip \
     htop \
     putty \
