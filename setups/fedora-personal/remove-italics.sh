@@ -5,7 +5,7 @@
 # It must be run with sudo privileges.
 
 FILE_PATH="/usr/share/plasma/plasmoids/org.kde.desktopcontainment/contents/ui/FolderItemDelegate.qml"
-SEARCH_STRING="font.italic: model?.isLink"
+SEARCH_STRING="font.italic: (model?.isLink ?? false)"
 
 # 1. Check for root privileges
 if [ "$EUID" -ne 0 ]; then
