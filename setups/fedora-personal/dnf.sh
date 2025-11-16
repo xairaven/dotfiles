@@ -7,13 +7,16 @@ sudo dnf install \
     gsmartcontrol \
     gzip \
     htop \
-    putty \
+    nemo \
+    nemo-preview \
+    nemo-fileroller \
     python3 \
     python3-pip \
     screen \
     smartmontools \
     steam \
     vim \
+    wl-clipboard \
     zsh
 
 # System

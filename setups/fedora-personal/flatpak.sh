@@ -9,7 +9,6 @@ flatpak install --user flathub \
     com.obsproject.Studio \
     com.protonvpn.www \
     com.spotify.Client \
-    com.termius.Termius \
     com.viber.Viber \
     md.obsidian.Obsidian \
     org.chromium.Chromium \
