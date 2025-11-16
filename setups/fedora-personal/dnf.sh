@@ -25,6 +25,7 @@ sudo dnf install \
     alsa-sof-firmware \
     alsa-utils \
     akmods \
+    akmod-nvidia \
     bluez \
     cabextract \
     cmake \
@@ -40,7 +41,9 @@ sudo dnf install \
     linux-firmware \
     mokutil \
     mscore-fonts-all \
+    nvidia-settings \
     openh264 \
     openssl \
     pavucontrol \
-    xorg-x11-font-utils
+    xorg-x11-drv-nvidia-cuda \
+    xorg-x11-font-utils 
