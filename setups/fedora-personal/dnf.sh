@@ -15,6 +15,7 @@ sudo dnf install \
     screen \
     smartmontools \
     steam \
+    tree \
     vim \
     wl-clipboard \
     zsh
