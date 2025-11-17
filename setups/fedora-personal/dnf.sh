@@ -1,11 +1,7 @@
-# Repositories
-dnf copr enable scottames/ghostty
-
 # User
 dnf install \
     code \
     fastfetch \
-    ghostty \
     git \
     gnome-keyring \
     gsmartcontrol \
