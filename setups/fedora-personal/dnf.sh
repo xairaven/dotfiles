@@ -1,7 +1,11 @@
+# Repositories
+dnf copr enable scottames/ghostty
+
 # User
-sudo dnf install \
+dnf install \
     code \
     fastfetch \
+    ghostty \
     git \
     gnome-keyring \
     gsmartcontrol \
@@ -21,7 +25,7 @@ sudo dnf install \
     zsh
 
 # System
-sudo dnf install \
+dnf install \
     alsa-sof-firmware \
     alsa-utils \
     akmods \
