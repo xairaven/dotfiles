@@ -1,5 +1,6 @@
 # User
 dnf install \
+    btop \
     code \
     fastfetch \
     git \
@@ -7,25 +8,40 @@ dnf install \
     gsmartcontrol \
     gzip \
     htop \
-    nemo \
-    nemo-preview \
-    nemo-fileroller \
+    meld \
+    okular \
     python3 \
     python3-pip \
     screen \
     smartmontools \
     steam \
+    sqlite \
+    tar \
+    tcpdump \
+    texlive-scheme-full \
+    texstudio \
+    traceroute \
     tree \
     vim \
     wl-clipboard \
-    zsh
+    unzip \
+    xclip \
+    yt-dlp \
+    zip \
+    zsh \
+    zsh-autosuggestions \
+    zsh-syntax-highlighting
 
 # System
 dnf install \
+    alsa-ucm \
     alsa-sof-firmware \
+    alsa-tools \
     alsa-utils \
     akmods \
     akmod-nvidia \
+    amd-gpu-firmware \
+    amd-ucode-firmware \
     bluez \
     cabextract \
     cmake \
@@ -39,11 +55,19 @@ dnf install \
     libxcb-devel \
     libxkbcommon-devel \
     linux-firmware \
+    lsof \
+    make \
+    mesa-demos \
+    mesa-dri-drivers \
+    mesa-vulkan-drivers \
+    microcode_ctl \
     mokutil \
     mscore-fonts-all \
+    nvidia-gpu-firmware \
     nvidia-settings \
     openh264 \
     openssl \
     pavucontrol \
+    realtek-firmware \
     xorg-x11-drv-nvidia-cuda \
     xorg-x11-font-utils 
