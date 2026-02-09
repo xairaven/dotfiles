@@ -1,0 +1,92 @@
+\documentclass[14pt, a4paper]{extreport}
+
+\usepackage{kpi-lab}
+\input{data}
+
+\begin{document}
+	\pagenumbering{gobble}
+	
+	\begin{titlepage}
+		\begin{center}
+			\normalsize
+			Національний технічний університет України\\
+			«Київський політехнічний інститут імені Ігоря Сікорського» \\[0.5em]
+			Факультет інформатики та обчислювальної техніки\\
+			Кафедра обчислювальної техніки
+			
+			\vfill
+			
+			{\large \textbf{ЗВІТ}\\[0.5em]}
+			{з лабораторної роботи №\LabNumber \\}
+			{з дисципліни <<\CourseTitle>>}
+			
+			\vspace{2em}
+			
+			{\textbf{Тема: <<\Topic>>}}
+			
+			\vspace{1em}
+			
+			{\textbf{Варіант №\Variant}}
+			
+			\vfill
+			
+			\begin{flushright}
+				Виконав: \\ студент \CourseNumber{} курсу, групи \StudentGroup \\
+				\StudentName \\[1em]
+				Перевірив: \\ \Teacher
+			\end{flushright}
+			
+			\vfill
+			
+			\begin{flushright}
+				Дата здачі: \DTMtoday
+			\end{flushright}
+			
+			\vspace{5em}
+			КИЇВ -- \ReportYear
+		\end{center}
+	\end{titlepage}
+	
+	\clearpage
+	\pagenumbering{arabic}
+	\setcounter{page}{2}
+	
+	\subsection*{Мета роботи} 
+	Something
+	
+	\subsection*{Завдання}
+	Something
+	
+	\section*{Хід роботи.}
+	
+	Something
+	
+	\image{3.2cm}{java-install}
+	
+	Something
+	
+	\subsection*{Висновок}
+	
+	Text. \\
+	
+	\section*{Контрольні запитання.}
+	
+	\begin{enumerate}
+		\item \textbf{Question?} \\ Answer
+	\end{enumerate}
+	
+	\pagebreak
+	
+	\section*{Лістинг.}
+	
+	\textbf{module/file.rs}
+	
+	\begin{minted}{rust} 
+		impl Default for Config {
+			fn default() -> Self {
+			
+			}
+		}
+	\end{minted}
+	
+\end{document}
