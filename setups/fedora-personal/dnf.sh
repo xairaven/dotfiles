@@ -4,10 +4,11 @@ dnf install \
     code \
     fastfetch \
     git \
-    gnome-keyring \
     gsmartcontrol \
     gzip \
     htop \
+    kolourpaint \
+    konsole \
     meld \
     okular \
     python3 \
@@ -34,6 +35,7 @@ dnf install \
 
 # System
 dnf install \
+    aalib-libs \
     alsa-ucm \
     alsa-sof-firmware \
     alsa-tools \
@@ -42,15 +44,37 @@ dnf install \
     akmod-nvidia \
     amd-gpu-firmware \
     amd-ucode-firmware \
+    atheros-firmware \
+    bash-color-prompt \
+    bash-completion \
+    bind-utils \
     bluez \
+    bluez-cups \
+    brcmfmac-firmware \
     cabextract \
+    clang-devel \
     cmake \
     curl \
     fontconfig \
     fontconfig-devel \
     freetype-devel \
     g++ \
+    gcc-c++ \
+    glibc \
+    glx-utils \
+    gnome-keyring \
+    gstreamer1-plugin-openh264 \
+    igt-gpu-tools \
+    intel-audio-firmware \
+    intel-gpu-firmware \
+    intel-media-driver \
+    intel-vsc-firmware \
+    iwlegacy-firmware \
+    iwlwifi-dvm-firmware \
+    iwlwifi-mvm-firmware \
+    kmod-nvidia \
     kmodtool \
+    kmod-v4l2loopback \
     libavcodec-freeworld \
     libxcb-devel \
     libxkbcommon-devel \
@@ -63,11 +87,24 @@ dnf install \
     microcode_ctl \
     mokutil \
     mscore-fonts-all \
+    mt7xxx-firmware \
     nvidia-gpu-firmware \
     nvidia-settings \
+    nvtop \
+    pipewire-alsa \
+    pipewire-codec-aptx \
+    pipewire-config-raop \
+    pipewire-gstreamer \
+    pipewire-pulseaudio \
+    pipewire-utils \
     openh264 \
     openssl \
     pavucontrol \
+    qemu-guest-agent \
+    qemu-kvm \
     realtek-firmware \
+    sqlite \
+    tiwilink-firmware \
+    vulkan-tools \
     xorg-x11-drv-nvidia-cuda \
     xorg-x11-font-utils 
