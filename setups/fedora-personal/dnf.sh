@@ -48,6 +48,7 @@ dnf install \
     bash-color-prompt \
     bash-completion \
     bind-utils \
+    binutils \
     bluez \
     bluez-cups \
     brcmfmac-firmware \
@@ -55,12 +56,16 @@ dnf install \
     clang-devel \
     cmake \
     curl \
+    dkms \
     fontconfig \
     fontconfig-devel \
     freetype-devel \
     g++ \
+    gcc \
     gcc-c++ \
     glibc \
+    glibc-devel \
+    glibc-headers \
     glx-utils \
     gnome-keyring \
     gstreamer1-plugin-openh264 \
@@ -72,9 +77,12 @@ dnf install \
     iwlegacy-firmware \
     iwlwifi-dvm-firmware \
     iwlwifi-mvm-firmware \
+    kernel-devel \
+    kernel-headers \
     kmod-nvidia \
     kmodtool \
     kmod-v4l2loopback \
+    libgomp \
     libavcodec-freeworld \
     libxcb-devel \
     libxkbcommon-devel \
@@ -91,6 +99,7 @@ dnf install \
     nvidia-gpu-firmware \
     nvidia-settings \
     nvtop \
+    patch \
     pipewire-alsa \
     pipewire-codec-aptx \
     pipewire-config-raop \
