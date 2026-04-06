@@ -10,6 +10,7 @@ flatpak install --user flathub \
     com.protonvpn.www \
     com.spotify.Client \
     com.viber.Viber \
+    it.mijorus.gearlever \
     md.obsidian.Obsidian \
     org.chromium.Chromium \
     org.gimp.GIMP \
