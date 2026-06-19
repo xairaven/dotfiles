@@ -5,11 +5,13 @@
 # It must be run with sudo privileges.
 
 FILE_PATH="/usr/share/plasma/plasmoids/org.kde.desktopcontainment/contents/ui/FolderItemDelegate.qml"
+
 # Before KDE Plasma 6.6:
 # SEARCH_STRING="font.italic: (model?.isLink ?? false)"
-
-# After KDE Plasma 6.6 included:
-SEARCH_STRING="font.italic: (main.model?.isLink ?? false)"
+# KDE Plasma 6.6:
+# SEARCH_STRING="font.italic: (main.model?.isLink ?? false)"
+# After KDE Plasma 6.7 included:
+SEARCH_STRING="font.italic: main.isLink"
 
 # 1. Check for root privileges
 if [ "$EUID" -ne 0 ]; then
