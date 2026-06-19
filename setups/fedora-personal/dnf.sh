@@ -59,6 +59,8 @@ user_apps=(
     unzip
     # Highly configurable text editor built to enable efficient text editing
     vim
+    # Compatibility layer capable of running Windows applications
+    wine
     # Command-line copy and paste utilities for Wayland
     wl-clipboard
     # Command-line interface to the X11 clipboard

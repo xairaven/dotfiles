@@ -11,6 +11,9 @@ apps=(
     # Voice, video, and text chat app tailored for communities
     com.discordapp.Discord
 
+    # Apps and fixes for Proton games
+    com.github.Matoking.protontricks
+
     # Sandbox block-building adventure game
     com.mojang.Minecraft
 
