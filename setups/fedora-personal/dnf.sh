@@ -1,14 +1,14 @@
 #!/bin/bash
 
-# RPM Fusion repository for additional free software packages
-dnf install -y https://mirrors.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm
+# RPM Fusion repository for additional software packages
+dnf install -y https://mirrors.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm \
+    https://mirrors.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
+
 
 # User Applications and Developer Tools
 user_apps=(
     # Resource monitor that shows usage and stats for processor, memory, disks, network, and processes
     btop
-    # Visual Studio Code editor
-    code
     # Command-line system information tool written in C
     fastfetch
     # Distributed version control system
@@ -31,10 +31,6 @@ user_apps=(
     nmap-ncat
     # Universal document viewer
     okular
-    # Daemonless container engine
-    podman
-    # Run docker-compose.yml files using Podman
-    podman-compose
     # Python 3 programming language
     python3
     # Package installer for Python 3
@@ -53,8 +49,6 @@ user_apps=(
     tcpdump
     # Complete TeX Live environment for LaTeX document preparation
     texlive-scheme-full
-    # Integrated writing environment for creating LaTeX documents
-    texstudio
     # Terminal multiplexer for managing multiple terminal sessions
     tmux
     # Tool to track the route packets take to a network host
@@ -85,6 +79,8 @@ user_apps=(
 system_apps=(
     # ASCII art library
     aalib-libs
+    # Advanced Configuration and Power Interface event daemon
+    acpid
     # Kernel module tracker that automatically builds the NVIDIA driver for new kernels
     akmod-nvidia
     # Automatic kmods build and install tool
@@ -181,6 +177,12 @@ system_apps=(
     libavcodec-freeworld
     # GCC OpenMP shared support library
     libgomp
+    # OpenGL, EGL, and OpenGL ES API calls between different graphics drivers
+    libglvnd-core-devel
+    libglvnd-devel
+    # Video Acceleration API (VA-API)
+    libva-nvidia-driver 
+    libva-utils
     # Development files for the X C Binding library
     libxcb-devel
     # Development files for handling keyboard descriptions
@@ -239,6 +241,8 @@ system_apps=(
     realtek-firmware
     # Firmware for Texas Instruments wireless devices
     tiwilink-firmware
+    # Query the capabilities of your system's VDPAU (Video Decode and Presentation API for Unix) implementation.
+    vdpauinfo
     # Utilities and tools for the Vulkan graphics API
     vulkan-tools
     # CUDA driver component for NVIDIA

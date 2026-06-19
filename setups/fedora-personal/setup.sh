@@ -1,13 +1,13 @@
 #!/bin/bash
 
-# Installing zsh
+# Changing default shell to zsh 
 chsh -s $(which zsh)
 
 # Changing timezone to Europe/Kyiv
 timedatectl set-timezone Europe/Kyiv
 
 # Changing hostname
-hostnamectl set-hostname desktop
+hostnamectl set-hostname laptop
 
 # DNF Install Only limit
 # Check if the setting exists; if yes, replace it. If no, append it.
