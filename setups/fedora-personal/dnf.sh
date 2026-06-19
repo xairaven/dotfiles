@@ -61,6 +61,8 @@ user_apps=(
     vim
     # Compatibility layer capable of running Windows applications
     wine
+    # Easy way to work around problems in Wine
+    winetricks
     # Command-line copy and paste utilities for Wayland
     wl-clipboard
     # Command-line interface to the X11 clipboard
