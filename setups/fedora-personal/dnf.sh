@@ -11,6 +11,8 @@ user_apps=(
     btop
     # Command-line system information tool written in C
     fastfetch
+    # SteamOS session compositing window manager
+    gamescope
     # Distributed version control system
     git
     # Graphical user interface for smartmontools to monitor hard drive health
@@ -63,6 +65,8 @@ user_apps=(
     wine
     # Easy way to work around problems in Wine
     winetricks
+    # Network protocol analyzer
+    wireshark
     # Command-line copy and paste utilities for Wayland
     wl-clipboard
     # Command-line interface to the X11 clipboard

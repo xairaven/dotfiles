@@ -56,9 +56,6 @@ apps=(
     # Open-source cross-platform multimedia player
     org.videolan.VLC
 
-    # Network protocol analyzer
-    org.wireshark.Wireshark
-
     # Open-source Shazam client for Linux
     re.fossplant.songrec
 
