@@ -52,6 +52,8 @@
 - [**Docker**](./setups/fedora-personal/apps/docker.sh)
 - [**Nvidia Drivers**](./setups/fedora-personal/apps/nvidia.sh)
 - [**OhMyZsh**](./setups/fedora-personal/apps/ohmyzsh.sh)
+- [**Proton-GE**](./setups/fedora-personal/apps/proton-ge.sh)
+- [**Rust Compiler / Rustup / Cargo**](./setups/fedora-personal/apps/rust.sh)
 - [**VirtualBox**](./setups/fedora-personal/apps/virtualbox.sh)
 - [**VS Code**](./setups/fedora-personal/apps/vs-code.sh)
 
