@@ -131,6 +131,8 @@ system_apps=(
     curl
     # Dynamic Kernel Module Support framework
     dkms
+    # Ccollection of core extension plugins for the DNF package manager
+    dnf-plugins-core
     # Font configuration and customization library
     fontconfig
     # Development files for fontconfig

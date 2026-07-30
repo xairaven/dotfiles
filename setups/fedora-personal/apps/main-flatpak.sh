@@ -29,9 +29,6 @@ apps=(
     # Cross-platform voice over IP and instant messaging software
     com.viber.Viber
 
-    # Visual Studio Code editor
-    com.visualstudio.code
-
     # Tool to manage AppImages on the Linux desktop
     it.mijorus.gearlever
 
