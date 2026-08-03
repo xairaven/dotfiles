@@ -53,6 +53,8 @@ user_apps=(
     texlive-scheme-full
     # Terminal multiplexer for managing multiple terminal sessions
     tmux
+    # Displays statistics about your code
+    tokei
     # Tool to track the route packets take to a network host
     traceroute
     # Command to display directories as hierarchical trees
