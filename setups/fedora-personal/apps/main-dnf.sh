@@ -77,12 +77,15 @@ user_apps=(
     yt-dlp
     # File packaging utility
     zip
+
     # The Z shell, an extended Bourne shell with many improvements
     zsh
     # Fish-like autosuggestions for Zsh
     zsh-autosuggestions
     # Fish-shell like syntax highlighting for Zsh
     zsh-syntax-highlighting
+    # Shell extension that automatically loads and unloads project-specific environment variables as you move between directories
+    direnv
 )
 
 # Core System Dependencies, Libraries, and Firmware

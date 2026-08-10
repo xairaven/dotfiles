@@ -6,6 +6,7 @@ plugins=(
         zsh-syntax-highlighting
         common-aliases
         docker
+        direnv
 )
 
 if [ -f ~/.aliases ]; then
