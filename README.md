@@ -48,6 +48,7 @@
 
 **Other apps (verify script before use)**
 
+- [**Cargo**](./setups/fedora-personal/apps/cargo.sh)
 - [**Claude Code**](./setups/fedora-personal/apps/claude.sh)
 - [**Docker**](./setups/fedora-personal/apps/docker.sh)
 - [**Nvidia Drivers**](./setups/fedora-personal/apps/nvidia.sh)
