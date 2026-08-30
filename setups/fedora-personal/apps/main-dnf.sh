@@ -15,6 +15,8 @@ user_apps=(
     gamescope
     # Distributed version control system
     git
+    # Git tools for sending patches via email.
+    git-email
     # Graphical user interface for smartmontools to monitor hard drive health
     gsmartcontrol
     # GNU data compression program
