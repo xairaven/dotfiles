@@ -8,6 +8,7 @@
 - [**.gitconfig**](./dotfiles/.gitconfig) - *Git configuration*
 
 ### Linux
+- [*GPG Agent Config*](./dotfiles/linux/gpg-agent.conf) - *Configuration of GPG Agent (Cache, etc.)*
 - [**.ssh**](./dotfiles/linux/.ssh) - *Distributed SSH configs*
 - [**Screen**](./dotfiles/linux/screen) - *Screen utility configuration files*
 - [**Shell**](./dotfiles/linux/shell/) - *Shell configuration (Bash, Zsh, needed aliases)*
