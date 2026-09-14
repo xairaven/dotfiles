@@ -47,9 +47,6 @@ apps=(
     # Cloud-based instant messaging and voice over IP service
     org.telegram.desktop
 
-    # Integrated writing environment for creating LaTeX documents
-    org.texstudio.TeXstudio
-
     # Open-source cross-platform multimedia player
     org.videolan.VLC
 

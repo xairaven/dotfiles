@@ -53,6 +53,8 @@ user_apps=(
     tcpdump
     # Complete TeX Live environment for LaTeX document preparation
     texlive-scheme-full
+    # Integrated writing environment for creating LaTeX documents
+    texstudio
     # Terminal multiplexer for managing multiple terminal sessions
     tmux
     # Displays statistics about your code
@@ -136,6 +138,8 @@ system_apps=(
     cmake
     # Tool for transferring data from or to a server
     curl
+    # The DejaVu fonts family
+    dejavu-sans-mono-fonts
     # Dynamic Kernel Module Support framework
     dkms
     # Ccollection of core extension plugins for the DNF package manager
