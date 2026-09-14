@@ -2,37 +2,38 @@
 
 **Author**: [*xairaven*](https://github.com/xairaven)
 
-## Dotfiles
+## Configurations
 
 ### General
-- [**.gitconfig**](./dotfiles/.gitconfig) - *Git configuration*
-
-### Linux
-- [*GPG Agent Config*](./dotfiles/linux/gpg-agent.conf) - *Configuration of GPG Agent (Cache, etc.)*
-- [**.ssh**](./dotfiles/linux/.ssh) - *Distributed SSH configs*
-- [**Screen**](./dotfiles/linux/screen) - *Screen utility configuration files*
-- [**Shell**](./dotfiles/linux/shell/) - *Shell configuration (Bash, Zsh, needed aliases)*
-
-### OpenWRT
-- [**Profile**](./dotfiles/openwrt/profile) - *Aliases*
-
-### Windows
-- [**Cargo**](./dotfiles/windows/.cargo) - *Configuration file for Cargo*
-
-
-## Settings
+- [**.gitconfig**](./configs/.gitconfig) - *Git configuration*
 
 ### Jetbrains
-- [**Plugins**](./settings/jetbrains/plugins.md) - *Needed plugins list*
-- [**Themes**](./settings/jetbrains/themes/) - *My themes for IDEs*
+- [**Plugins**](./configs/jetbrains/plugins.md) - *Needed plugins list*
+- [**Themes**](./configs/jetbrains/themes/) - *My themes for IDEs*
 
 ### LaTeX
-- [**TeXStudio Settings**](./settings/latex/texstudio.md) - *Howto setup TeXStudio for comfortable work*
-- [**University Template**](./settings/latex/KPI-Template/) - *Document template for university labs*
+- [**TeXStudio Settings**](./configs/latex/texstudio.md) - *Howto setup TeXStudio for comfortable work*
+- [**University Template**](./configs/latex/KPI-Template/) - *Document template for university labs*
+
+### Linux
+- [*GPG Agent Config*](./configs/linux/gpg-agent.conf) - *Configuration of GPG Agent (Cache, etc.)*
+- [**.ssh**](./configs/linux/.ssh) - *Distributed SSH configs*
+- [**Screen**](./configs/linux/screen) - *Screen utility configuration files*
+- [**Shell**](./configs/linux/shell/) - *Shell configuration (Bash, Zsh, needed aliases)*
+
+### OpenWRT
+- [**Profile**](./configs/openwrt/profile) - *Aliases*
 
 ### Rust
-- [**Formatter**](./settings/rust/rustfmt.toml) - *Formatter settings*
-- [**Toolchain**](./settings/rust/rust-toolchain.toml) - *Toolchain settings for some project*
+- [**Formatter**](./configs/rust/rustfmt.toml) - *Formatter settings*
+- [**Toolchain**](./configs/rust/rust-toolchain.toml) - *Toolchain settings for some project*
+
+### VS Code
+- [**Export-Import**](./configs/vscode/export-import.sh) - *Export-Import Script*
+- [**Extensions**](./configs/vscode/extensions.txt) - *List of extensions*
+
+### Windows
+- [**Cargo**](./configs/windows/.cargo) - *Configuration file for Cargo*
 
 ## Setups
 
@@ -40,6 +41,7 @@
 - [**Essentials**](./setups/fedora-personal/shell-time.sh) - *Setup needed shell, timezone, hostname etc.*
 - [**KDE Plasma Remove Italics**](./setups/fedora-personal/remove-italics.sh) - *Disable italics on KDE Plasma desktop shortcuts*
 - [**Kernel Sign Script**](./setups/fedora-personal/auto-kernel-sign.sh) - *Automatic kernel module signing*
+- [**Microsoft Fonts**](./setups/fedora-personal/ms-fonts.sh) - *Essential Microsoft fonts*
 - [**Nvidia Script**](./setups/fedora-personal/nvidia.sh) - *Some settings for better work with Nvidia card*
 - [**SSH Permissions**](./setups/fedora-personal/ssh-chmod.sh) - *Securely sets permissions for my ssh configs-keys setup*
 
@@ -56,6 +58,7 @@
 - [**OhMyZsh**](./setups/fedora-personal/apps/ohmyzsh.sh)
 - [**Proton-GE**](./setups/fedora-personal/apps/proton-ge.sh)
 - [**Rust Compiler / Rustup / Cargo**](./setups/fedora-personal/apps/rust.sh)
+- [**Typst**](./setups/fedora-personal/apps/typst.sh)
 - [**VirtualBox**](./setups/fedora-personal/apps/virtualbox.sh)
 - [**VS Code**](./setups/fedora-personal/apps/vs-code.sh)
 
