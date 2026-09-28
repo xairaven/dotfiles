@@ -41,6 +41,9 @@ apps=(
     # GNU Image Manipulation Program for raster graphics editing
     org.gimp.GIMP
 
+    # Video editing application
+    org.kde.kdenlive
+
     # Cross-platform community-driven password manager
     org.keepassxc.KeePassXC
 
