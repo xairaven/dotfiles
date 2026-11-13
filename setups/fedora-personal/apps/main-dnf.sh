@@ -29,6 +29,8 @@ user_apps=(
     konsole
     # Visual diff and merge tool
     meld
+    # Terminal text editor
+    neovim
     # Network exploration tool and security scanner
     nmap
     # Concatenate and redirect sockets, modern netcat replacement
