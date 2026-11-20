@@ -37,6 +37,8 @@ user_apps=(
     nmap-ncat
     # Universal document viewer
     okular
+    # Open-source tool allowing users to create diagrams from a plain text language
+    plantuml
     # Python 3 programming language
     python3
     # Package installer for Python 3
